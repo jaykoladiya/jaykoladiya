@@ -2,7 +2,6 @@
 
 💎 I work in the **diamond and jewelry trade** in Surat, India, dealing in natural and lab-grown polished diamonds.
 
-🌏 I trade with Hong Kong, China, Vietnam, Cambodia, the Philippines and Indonesia.
 
 🛠️ I build tools that automate the daily work of the business: invoicing, stock, catalogs and pricing.
 
